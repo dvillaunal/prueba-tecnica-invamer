@@ -5,3 +5,4 @@
 /.quarto/
 **/*.quarto_ipynb
 ~$ueba Técnica - Analista Estadístico.docx
+.DS_Store
